@@ -1,0 +1,7 @@
+services:
+  preview:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - ./preview:/usr/share/nginx/html:ro

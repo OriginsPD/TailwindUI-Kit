@@ -1,0 +1,12 @@
+.git
+.vscode
+html
+react
+vue
+alpine
+*.fig.zip
+*.zip
+PHASE_STATE.md
+README.md
+docker-compose.yml
+.dockerignore
